@@ -1,0 +1,10 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+velocity.log
+.idea
+*.iml
+out/
